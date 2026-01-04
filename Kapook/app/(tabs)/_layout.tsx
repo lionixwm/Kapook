@@ -24,7 +24,7 @@ export default function TabLayout() {
             position: 'absolute',
           },
           default: {},
-        }),
+        }),dd
       }}>
       <Tabs.Screen
         name="index"
